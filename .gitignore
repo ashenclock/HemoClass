@@ -1,0 +1,19 @@
+# MATLAB
+*.mat
+*.asv
+*.m~
+*.mlx~
+*.fig
+*.mex*
+*.mat
+*.mexmac
+*.mexglx
+*.mexa64
+*.mexw32
+*.mexw64
+
+# Simscape
+*.slxc
+
+# macOS
+.DS_Store
